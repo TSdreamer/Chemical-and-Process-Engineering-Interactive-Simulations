@@ -1,6 +1,6 @@
 # Chemical & Process Engineering Interactive Simulations
 
-[We](http://uowhydrogen) prepared interactive IPython/Jupyter notebooks with simulations for chemical and process engineering courses and posting them in this repository. These simulations will allow the users to change equation parameters —using just sliders and buttons— in order to obtain a better understanding of the system being modeled.
+[We](https://uowhydrogen.github.io) prepared interactive IPython/Jupyter notebooks with simulations for chemical and process engineering courses and posting them in this repository. These simulations will allow the users to change equation parameters —using just sliders and buttons— in order to obtain a better understanding of the system being modeled.
 
 :fire: **NEW!** [Try this code on your web-browser, no installation required!](http://mybinder.org/repo/CAChemE/learn)
 
