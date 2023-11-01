@@ -1,4 +1,4 @@
-# Chemical and Process Engineering Interactive Simulations
+# Chemical & Process Engineering Interactive Simulations
 
 [We](http://uowhydrogen) prepared interactive IPython/Jupyter notebooks with simulations for chemical and process engineering courses and posting them in this repository. These simulations will allow the users to change equation parameters —using just sliders and buttons— in order to obtain a better understanding of the system being modeled.
 
