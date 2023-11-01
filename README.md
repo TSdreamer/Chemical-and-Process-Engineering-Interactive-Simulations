@@ -8,13 +8,6 @@
 We wanted to reproduce [this work](http://www.learncheme.com/home) (learnChemE.com) with [this technology](http://www.nature.com/news/ipython-interactive-demo-7.21492) (Nature and IPython)
 
 ---
- 
-## Some Examples
-
-#### [Heterogeneous Batch Stirred Tank Reactor](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Stirred-Tank-Reactor/Heterogeneous-batch-STR.ipynb)
-
-[![img](/Stirred-Tank-Reactor/Het-STR-Python.gif)
-](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Stirred-Tank-Reactor/Heterogeneous-batch-STR.ipynb)
 
 #### [Tube Diameter effect on Plug Flow Reactors](http://nbviewer.ipython.org/github/CAChemE/learn/blob/master/Plug-Flow-Reactor/diameter-effect-on-PFR.ipynb)
 
